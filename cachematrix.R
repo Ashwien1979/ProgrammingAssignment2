@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 ## The following function calculates the inverse of the special "matrix" 
 ## created with the function below. It first checks to see if 
 ## the mean has already been calculated. If so, it gets the inverse 
